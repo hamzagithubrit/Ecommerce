@@ -18,15 +18,31 @@ With its user-friendly interface, cross-platform compatibility, and a range of f
 
 ## Table of Contents
 
-- [Features](#features)
-- [Screenshots](#screenshots)
+- [Features]
 
-## Features
+Certainly! Here are some specific features commonly found in e-commerce projects developed using React Native:
 
-- [Feature 1]
-- [Feature 2]
-- [Feature 3]
-- ...
+Add to Cart: Users can add products to their shopping cart with a single tap, allowing them to collect multiple items before proceeding to the checkout process.
+
+Quantity Selection: Users can select the desired quantity of a product they wish to purchase, adjusting it as needed.
+
+Reviews and Ratings: Users can view and submit reviews for products, as well as rate them based on their satisfaction or experience.
+
+Commenting System: Users can leave comments or engage in discussions related to specific products, sharing their opinions, asking questions, or providing additional information.
+
+Wishlist: Users can create a wishlist of products they want to save for future reference or purchase, making it easier to keep track of desired items.
+
+Order History: Users have access to a comprehensive history of their past orders, allowing them to review previous purchases and track their status.
+
+Save for Later: Users can save products for later consideration, enabling them to revisit and potentially purchase them at a later time.
+
+Discount Codes: Users can apply discount codes during the checkout process to avail themselves of special offers or promotions.
+
+Product Comparison: Users can compare different products side by side, evaluating their features, prices, and other attributes to make informed purchasing decisions.
+
+Social Sharing: Users can share product details, reviews, or their shopping experience on various social media platforms, spreading the word and potentially influencing others' buying decisions.
+
+These specific features enhance the functionality and usability of the e-commerce app, allowing users to interact with products, make informed choices, and engage with the community.
 
 ## Screenshots
 
