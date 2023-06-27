@@ -16,9 +16,7 @@ Furthermore, the app utilizes analytics and reporting tools to gather valuable d
 
 With its user-friendly interface, cross-platform compatibility, and a range of features, the React Native e-commerce project aims to provide users with a seamless and enjoyable shopping experience, ultimately driving customer satisfaction and business growth.
 
-## Table of Contents
-
-- [Features]
+## Features
 
 Certainly! Here are some specific features commonly found in e-commerce projects developed using React Native:
 
@@ -37,8 +35,6 @@ Order History: Users have access to a comprehensive history of their past orders
 Save for Later: Users can save products for later consideration, enabling them to revisit and potentially purchase them at a later time.
 
 Discount Codes: Users can apply discount codes during the checkout process to avail themselves of special offers or promotions.
-
-Product Comparison: Users can compare different products side by side, evaluating their features, prices, and other attributes to make informed purchasing decisions.
 
 Social Sharing: Users can share product details, reviews, or their shopping experience on various social media platforms, spreading the word and potentially influencing others' buying decisions.
 
