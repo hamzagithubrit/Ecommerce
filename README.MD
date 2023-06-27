@@ -1,4 +1,6 @@
-# Project Name
+# Ecommerce app
+
+The React Native e-commerce project is a mobile app that allows users to browse and buy products easily from their smartphones. It features user registration, a product catalog with search functionality, a shopping cart and checkout process, order tracking, user reviews, push notifications, and analytics for better insights. With a user-friendly interface and cross-platform compatibility, it aims to provide a seamless shopping experience for customers.
 
 [Add a project description here]
 
