@@ -20,46 +20,26 @@ With its user-friendly interface, cross-platform compatibility, and a range of f
 
 Certainly! Here are some specific features commonly found in e-commerce projects developed using React Native:
 
-Add to Cart: Users can add products to their shopping cart with a single tap, allowing them to collect multiple items before proceeding to the checkout process.
-
-Quantity Selection: Users can select the desired quantity of a product they wish to purchase, adjusting it as needed.
-
-Reviews and Ratings: Users can view and submit reviews for products, as well as rate them based on their satisfaction or experience.
-
-Commenting System: Users can leave comments or engage in discussions related to specific products, sharing their opinions, asking questions, or providing additional information.
-
-Wishlist: Users can create a wishlist of products they want to save for future reference or purchase, making it easier to keep track of desired items.
-
-Order History: Users have access to a comprehensive history of their past orders, allowing them to review previous purchases and track their status.
-
-Save for Later: Users can save products for later consideration, enabling them to revisit and potentially purchase them at a later time.
-
-Discount Codes: Users can apply discount codes during the checkout process to avail themselves of special offers or promotions.
-
-Social Sharing: Users can share product details, reviews, or their shopping experience on various social media platforms, spreading the word and potentially influencing others' buying decisions.
+- **Add to Cart:** Users can add products to their shopping cart with a single tap, allowing them to collect multiple items before proceeding to the checkout process.
+- **Quantity Selection:** Users can select the desired quantity of a product they wish to purchase, adjusting it as needed.
+- **Reviews and Ratings:** Users can view and submit reviews for products, as well as rate them based on their satisfaction or experience.
+- **Commenting System:** Users can leave comments or engage in discussions related to specific products, sharing their opinions, asking questions, or providing additional information.
+- **Wishlist:** Users can create a wishlist of products they want to save for future reference or purchase, making it easier to keep track of desired items.
+- **Order History:** Users have access to a comprehensive history of their past orders, allowing them to review previous purchases and track their status.
+- **Save for Later:** Users can save products for later consideration, enabling them to revisit and potentially purchase them at a later time.
+- **Discount Codes:** Users can apply discount codes during the checkout process to avail themselves of special offers or promotions.
+- **Social Sharing:** Users can share product details, reviews, or their shopping experience on various social media platforms, spreading the word and potentially influencing others' buying decisions.
 
 These specific features enhance the functionality and usability of the e-commerce app, allowing users to interact with products, make informed choices, and engage with the community.
 
 ## Screenshots
 
-![Screenshot 1]
-(./assets/IImage1.jpeg)
-_Screen consists of a login and sign-up section. Users can either log in with their existing credentials or create a new account by signing up. TUsers can navigate between the login and sign-up sections based on their needs._
+| Login and Sign-up                      | Email and Password Input               | Sign-up Form                           |
+| -------------------------------------- | -------------------------------------- | -------------------------------------- |
+| ![Screenshot 1](./assets/IImage1.jpeg) | ![Screenshot 2](./assets/IImage2.jpeg) | ![Screenshot 3](./assets/IImage3.jpeg) |
 
-![Screenshot 2]
-(./assets/IImage2.jpeg)
-_Screen consists of an email input field, a password input field, and a login button. Users can enter their email address and associated password, then click the login button to initiate the authentication process. This screen focuses on capturing the necessary login information and facilitating a smooth login experience._
+| Product Selection                      | Product Details 1                      | Product Details 2                      |
+| -------------------------------------- | -------------------------------------- | -------------------------------------- |
+| ![Screenshot 4](./assets/IImage4.jpeg) | ![Screenshot 5](./assets/IImage5.jpeg) | ![Screenshot 6](./assets/IImage6.jpeg) |
 
-[Screenshot 3]
-(./assets/IImage3.jpeg)
-_Screen consists of input fields for email, name, password, and confirm password, along with a sign-up button. Users can enter their email address, name, and desired password, then confirm the password by re-entering it in the respective field. Finally, they can click the sign-up button to create their new account. The screen focuses on collecting the necessary information and enabling users to register for an account._
-
-[Screenshot 4]
-(./assets/IImage4.jpeg)
-_Screen 4 presents a selection interface where users can choose their favorite product from a list of daily-use items. It includes a text input field for searching specific products and two flat lists showcasing a variety of daily needs items. Users can either search for a specific product or scroll through the lists to make their selection._
-[Screenshot 5]
-(./assets/IImage5.jpeg)
-_Screen 5 displays the details of a selected item, including its image, price, name, and rating. Users can adjust the quantity using a numeric input field and add the item to their cart with an "Add to Cart" button. Additionally, there is a text box for users to write a review, and a submit button to submit the review for others to see._
-[Screenshot 6]
-(./assets/IImage6.jpeg)
-_Screen 6 displays the details of a selected item, including its image ,price, name, and rating. Users can adjust the quantity using a numeric input field and add the item to their cart with an "Add to Cart" button. Additionally, there is a text box for users to write a review, and a submit button to submit the review for others to see._
+These screenshots illustrate different screens of the e-commerce app, showcasing the login and sign-up process, email and password input, sign-up form, product selection, and product details. The layout and design of the app can be adjusted according to your preferences.
