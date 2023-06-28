@@ -43,17 +43,17 @@ These specific features enhance the functionality and usability of the e-commerc
 ## Screenshots
 
 ![Screenshot 1](./assets/IImage1.jpeg)
-_this is picture one_
+_Screen consists of a login and sign-up section. Users can either log in with their existing credentials or create a new account by signing up. TUsers can navigate between the login and sign-up sections based on their needs._
 
 ![Screenshot 2](./assets/IImage2.jpeg)
-_Caption for Screenshot 2_
+_Screen consists of an email input field, a password input field, and a login button. Users can enter their email address and associated password, then click the login button to initiate the authentication process. This screen focuses on capturing the necessary login information and facilitating a smooth login experience._
 
 [Screenshot 3](./assets/IImage3.jpeg)
-_Caption for Screenshot 3_
+_Screen consists of input fields for email, name, password, and confirm password, along with a sign-up button. Users can enter their email address, name, and desired password, then confirm the password by re-entering it in the respective field. Finally, they can click the sign-up button to create their new account. The screen focuses on collecting the necessary information and enabling users to register for an account._
 
 [Screenshot 4](./assets/IImage4.jpeg)
-_Caption for Screenshot 4_
-[Screenshot 3](./assets/IImage5.jpeg)
-_Caption for Screenshot 5_
-[Screenshot 3](./assets/IImage6.jpeg)
-_Caption for Screenshot 6_
+_Screen 4 presents a selection interface where users can choose their favorite product from a list of daily-use items. It includes a text input field for searching specific products and two flat lists showcasing a variety of daily needs items. Users can either search for a specific product or scroll through the lists to make their selection._
+[Screenshot 5](./assets/IImage5.jpeg)
+_Screen 5 displays the details of a selected item, including its image, price, name, and rating. Users can adjust the quantity using a numeric input field and add the item to their cart with an "Add to Cart" button. Additionally, there is a text box for users to write a review, and a submit button to submit the review for others to see._
+[Screenshot 6](./assets/IImage6.jpeg)
+_Screen 6 displays the details of a selected item, including its image ,price, name, and rating. Users can adjust the quantity using a numeric input field and add the item to their cart with an "Add to Cart" button. Additionally, there is a text box for users to write a review, and a submit button to submit the review for others to see._
