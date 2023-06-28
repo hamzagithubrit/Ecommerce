@@ -45,7 +45,7 @@ These specific features enhance the functionality and usability of the e-commerc
 ![Screenshot 1](./assets/IImage1.jpeg)
 _this is picture one_
 
-![Screenshot 2](./assets/IImage1.jpeg)
+![Screenshot 2](./assets/IImage2.jpeg)
 _Caption for Screenshot 2_
 
 [Screenshot 3](./assets/IImage3.jpeg)
