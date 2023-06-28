@@ -42,8 +42,18 @@ These specific features enhance the functionality and usability of the e-commerc
 
 ## Screenshots
 
-![Screenshot 1](./assets/1.1.jpg)
+![Screenshot 1](./assets/IImage1.jpeg)
 _this is picture one_
 
-![Screenshot 2](./assets/1.2.jpg)
+![Screenshot 2](./assets/IImage1.jpeg)
 _Caption for Screenshot 2_
+
+[Screenshot 3](./assets/IImage3.jpeg)
+_Caption for Screenshot 3_
+
+[Screenshot 4](./assets/IImage4.jpeg)
+_Caption for Screenshot 4_
+[Screenshot 3](./assets/IImage5.jpeg)
+_Caption for Screenshot 5_
+[Screenshot 3](./assets/IImage6.jpeg)
+_Caption for Screenshot 6_
