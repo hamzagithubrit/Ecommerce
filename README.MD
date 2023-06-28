@@ -42,4 +42,4 @@ These specific features enhance the functionality and usability of the e-commerc
 | -------------------------------------- | -------------------------------------- | -------------------------------------- |
 | ![Screenshot 4](./assets/IImage4.jpeg) | ![Screenshot 5](./assets/IImage5.jpeg) | ![Screenshot 6](./assets/IImage6.jpeg) |
 
-These screenshots illustrate different screens of the e-commerce app, showcasing the login and sign-up process, email and password input, sign-up form, product selection, and product details. The layout and design of the app can be adjusted according to your preferences.
+These screenshots illustrate different screens of the e-commerce app, showcasing the login and sign-up process, email and password input, sign-up form, product selection, and product details.
